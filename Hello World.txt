@@ -1,0 +1,7 @@
+Pada program ini akan mempelajari bagaimana cara menggunakan kode "print()". Kode ini berfungsi untuk menampilkan dan mengeksekusi program yang kita buat.
+
+                  print("Hello World") 
+                  print("Welcome to Python")
+                  print("Enjoy!")
+
+Dari kode di atas pada saat dijalankan, maka python akan mengeksekusi program tersebut sehingga menampilkan apa yang ada di dalam kurung tersebut.
