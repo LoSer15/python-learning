@@ -1,2 +1,2 @@
 # python-learning
-Sebagai dokumentasi apa yang saya pelajari (klik tab "wiki")
+As a documentation what i learned (click wiki for explanation)
